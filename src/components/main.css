@@ -1,0 +1,44 @@
+#businesscntr{
+	padding: 0px 10px;
+}
+.info_box{
+	display: block;
+	text-align: left;
+}
+.info_tab{
+	display: block;
+	padding: 10px 5px;
+}
+
+.info_tab .head{
+	font-weight: bold;
+	padding-right: 10px;
+}
+
+.info_tab img{
+	width: 100px;
+	height: auto;
+}
+
+.dd_container{
+	display: flex;
+}
+
+.dd_box{
+	text-align: left;
+	padding:20px;
+	flex: 1;
+}
+.dd_box li{
+	padding:10px 0px;
+}
+.ll_container ul{
+	list-style: none;
+}
+
+.ll_container ul li{
+	background: #6666662b;
+	margin: 10px 0px;
+	text-align: left;
+	padding:10px;
+}
